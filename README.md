@@ -49,7 +49,7 @@ ISO 2700 LI | AVCSE | CSA | CEH | CND | AWS & AZURE
 <img align="left" alt="sophos" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/VirusTotal_logo.svg" style="padding-right:10px;" />
 </div>
 <br />
-<div>
+<div align=left>
 <img align="left" alt="active_directory" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Active-directory.svg" style="padding-right:10px;" />
 </div>
 
