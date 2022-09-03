@@ -39,7 +39,8 @@ ISO 2700 LI | AVCSE | CSA | CEH | CND | AWS & AZURE
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/aws-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/putty-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
