@@ -43,6 +43,7 @@ ISO 2700 LI | AVCSE | CSA | CEH | CND | AWS & AZURE
 <img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="putty" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/putty/putty-original.svg" style="padding-right:10px;" />
 <img align="left" alt="vmware" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" style="padding-right:10px;" />
+<img align="left" alt="nessus" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" style="padding-right:10px;" />
 
 <br />
 <br />
