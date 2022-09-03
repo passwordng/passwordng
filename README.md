@@ -1,6 +1,6 @@
 # Hi there, I'm Hamzah - aka [Password] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]([https://codestackr.com https://passwordng.github.io/]
+[![Website](https://img.shields.io/website?label=PASSWORD_NG&style=for-the-badge&url=https%3A%2F%2Fpasswordng.github.io)](https://passwordng.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/password_ng?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpassword_ng&screen_name=PASSWORD_NG)
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
