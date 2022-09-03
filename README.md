@@ -43,15 +43,15 @@
 
 ### 📺 Projects
 
-<!-- YOUTUBE:START -->
-- [Learning to Code is NOT Hard!!](https://www.youtube.com/watch?v=5jzIjU7Ed9o)
-- [12 ways to center a div](https://www.youtube.com/watch?v=WM02RIeE1Fs)
-- [How to center a div 12 ways!!](https://www.youtube.com/watch?v=kphds-1V9o8)
-- [JavaScript Variables](https://www.youtube.com/watch?v=oXegXhqGQ30)
-- [What is JavaScript? Click to watch more 👇](https://www.youtube.com/watch?v=asyHJSlYwX0)
-<!-- YOUTUBE:END -->
+<!-- PROJECTS:START -->
+- [Whitehat.NG -Pushing for Responsible Disclosure in Nigeria](https://www.whitehat.ng/)
+- [CyberTalkNaija - Tracking the Nigeria Cybersecurity Ecosystem](https://www.cybertalknaija.com/)
+- [CybersecFill - Cybersecuirty Blog](https://cybersecfill.com/)
+- [Cybersecurity Virtual Lab - Virtual SOC]()
+- [secopstalents -](http://www.secopstalents.com/)
+<!-- PROJECTS:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more projects...]()
 
 ---
 
@@ -65,7 +65,7 @@
 - [Cybersecurity Risk in Supply Chain Management](https://cybersecfill.com/cybersecurity-risk-in-supply-chain/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://passwordng.github.io/)
 
 ---
 
