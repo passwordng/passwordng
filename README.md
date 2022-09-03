@@ -32,7 +32,7 @@
 ISO 2700 LI | AVCSE | CSA | CEH | CND | AWS & AZURE
 
 ### Languages and Tools:
-<div align=left>
+
 <img align="left" alt="Windows" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Microsoft_-_SuperTinyIcons.svg" style="padding-right:10px;" />
 <img align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ps" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" style="padding-right:10px;" />
@@ -47,12 +47,14 @@ ISO 2700 LI | AVCSE | CSA | CEH | CND | AWS & AZURE
 <img align="left" alt="sophos" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Sophos_logo2.svg" style="padding-right:10px;" />
 <img align="left" alt="Virustotal" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/CrowdStrike_logo.svg" style="padding-right:10px;" />
 <img align="left" alt="sophos" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/VirusTotal_logo.svg" style="padding-right:10px;" />
-</div>
-<br />
+
+<!--
 <div align=left>
 <img align="left" alt="active_directory" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Active-directory.svg" style="padding-right:10px;" />
 </div>
+-->
 
+<br />
 <br />
 
 ---
