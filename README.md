@@ -41,7 +41,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Projects
 
 <!-- YOUTUBE:START -->
 - [Learning to Code is NOT Hard!!](https://www.youtube.com/watch?v=5jzIjU7Ed9o)
@@ -60,9 +60,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [COVID-19: Security in the Wake of a New Work Order](https://cybersecfill.com/covid-19-security-in-the-wake-working-from-home)
 - [Darknet: Source of Actionable Intelligence](https://cybersecfill.com/darknet-for-actionable-intelligence/)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [A Decade of Cybersecurity In Nigeria](https://cybersecfill.com/a-decade-of-cybersecurity-in-nigeria/)
+- [Understanding Cyber Kill Chain – Adversary Needs an Insider](https://cybersecfill.com/understanding-cyber-kill-chain-adversary-needs-an-insider/)
+- [Cybersecurity Risk in Supply Chain Management](https://cybersecfill.com/cybersecurity-risk-in-supply-chain/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
