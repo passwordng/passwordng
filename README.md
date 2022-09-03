@@ -45,6 +45,7 @@ ISO 2700 LI | AVCSE | CSA | CEH | CND | AWS & AZURE
 <img align="left" alt="vmware" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" style="padding-right:10px;" />
 <img align="left" alt="nessus" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" style="padding-right:10px;" />
 <img align="left" alt="sophos" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Sophos_logo2.svg" style="padding-right:10px;" />
+<img align="left" alt="Virustotal" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/CrowdStrike_logo.svg" style="padding-right:10px;" />
 
 <br />
 <br />
