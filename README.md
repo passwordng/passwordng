@@ -9,9 +9,9 @@
 
 - 🔭 Interested in Cybersecurity - Security Operations & Engineering
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other in the Tech and Cybersecurity space
+- 👯 I’m looking to collaborate with others in the Tech and Cybersecurity space
 - 🥅 2022 Goals: Simplifying Cybersecurity Implementation for Organizations.
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Love Playing Scrabble, Speaking is Fun, Purveyor of Personal Development.
 - 😻 
 
 ### Connect with me:
