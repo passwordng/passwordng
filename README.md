@@ -38,7 +38,7 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/password_ng#gh-dark-mode-only)
 
 ### Certifications 📜
-ISO 2700 LI | AVCSE | CSA | CEH | CND | AWS & AZURE
+ISO 2700 LI | AVCSE | CSA | CEH | CND | AWS & AZURE | B.TECH & ND
 
 ### Languages and Tools:
 
