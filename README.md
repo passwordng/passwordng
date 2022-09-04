@@ -82,6 +82,7 @@ ISO 2700 LI | AVCSE | CSA | CEH | CND | AWS & AZURE
 - [A Decade of Cybersecurity In Nigeria](https://cybersecfill.com/a-decade-of-cybersecurity-in-nigeria/)
 - [Understanding Cyber Kill Chain – Adversary Needs an Insider](https://cybersecfill.com/understanding-cyber-kill-chain-adversary-needs-an-insider/)
 - [Cybersecurity Risk in Supply Chain Management](https://cybersecfill.com/cybersecurity-risk-in-supply-chain/)
+- [A Review of the Nigeria National Cybersecurity Strategy](https://cybersecfill.com/nigeria-cybersecurity-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://passwordng.github.io/)
