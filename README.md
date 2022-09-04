@@ -14,6 +14,15 @@
 - ⚡ Fun fact: Love Playing Scrabble, Speaking is Fun, Purveyor of Personal Development.
 - 😻 
 
+### Where I've Been
+- 🏫 Innopolis University 
+- 🌐 CyberPlural MSSP | Lead, Cybersecurity Engineering
+- 🏧 [REDACTED] Intel 💰 | 🅿 SME, Security Engineering & Threat Intelligence.
+- 🏧  cCHub |  Security Auditor 
+- 🌐 CyberDome | Security Analyst & Engineer
+- 🏫 Federal University of Technology Minna | B.Tech, Cybersecurity
+- 🎓 Federal Polytechnic Offa | ND, Computer Engineering
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://passwordng.github.io#gh-light-mode-only)
