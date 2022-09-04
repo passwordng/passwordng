@@ -25,8 +25,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/password-ng/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/password-ng/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/passwordng#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/passwordng#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/password_ng#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/password_ng#gh-dark-mode-only)
 
 ### Certifications 📜
 ISO 2700 LI | AVCSE | CSA | CEH | CND | AWS & AZURE
