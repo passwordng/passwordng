@@ -43,13 +43,13 @@ ISO 2700 LI | AVCSE | CSA | CEH | CND | AWS & AZURE
 <img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="putty" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/putty/putty-original.svg" style="padding-right:10px;" />
 <img align="left" alt="vmware" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" style="padding-right:10px;" />
-### Tools
+<!--
 <img align="left" alt="nessus" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" style="padding-right:10px;" />
 <img align="left" alt="sophos" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Sophos_logo2.svg" style="padding-right:10px;" />
 <img align="left" alt="Virustotal" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/CrowdStrike_logo.svg" style="padding-right:10px;" />
 <img align="left" alt="sophos" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/VirusTotal_logo.svg" style="padding-right:10px;" />
 
-<!--
+
 <div align=left>
 <img align="left" alt="active_directory" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Active-directory.svg" style="padding-right:10px;" />
 </div>
