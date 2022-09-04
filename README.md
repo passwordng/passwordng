@@ -76,7 +76,6 @@ ISO 2700 LI | AVCSE | CSA | CEH | CND | AWS & AZURE | B.TECH & ND
 - [CyberTalkNaija - Tracking the Nigeria Cybersecurity Ecosystem](https://www.cybertalknaija.com/)
 - [CybersecFill - Cybersecuirty Blog](https://cybersecfill.com/)
 - [Cybersecurity Virtual Lab - Virtual SOC]()
-- [secopstalents -](http://www.secopstalents.com/)
 <!-- PROJECTS:END -->
 
 ➡️ [more projects...]()
