@@ -7,11 +7,11 @@
 
 ## I'm a Cybersecurity Professional, Infrastructure Engineeer, and Teacher!!
 
-- 🔭 Interested in Cybersecurity - Security Operations
+- 🔭 Interested in Cybersecurity - Security Operations & Engineering
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other 
 - 🥅 2022 Goals: Learn more about Governance, Risk and Compliance
-- ⚡ Fun fact:
+- ⚡ Fun fact: 
 - 😻 
 
 ### Connect with me:
