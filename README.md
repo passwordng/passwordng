@@ -15,13 +15,13 @@
 - 😻 
 
 ### Where I've Been
-- 🏫 Innopolis University 
+- 🏫 Innopolis University -
 - 🌐 CyberPlural MSSP | Lead, Cybersecurity Engineering
 - 🏧 [REDACTED] Intel 💰 | 🅿 SME, Security Engineering & Threat Intelligence.
 - 🏧  cCHub |  Security Auditor 
 - 🌐 CyberDome | Security Analyst & Engineer
-- 🏫 Federal University of Technology Minna | B.Tech, Cybersecurity
-- 🎓 Federal Polytechnic Offa | ND, Computer Engineering
+- 🏫 Federal University of Technology Minna | B.Tech, Cybersecurity Science
+- 🎓 Federal Polytechnic Offa | ND, Computer Technology Engineering.
 
 ### Connect with me:
 
