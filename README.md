@@ -10,7 +10,7 @@
 - 🔭 Interested in Cybersecurity - Security Operations & Engineering
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other 
-- 🥅 2022 Goals: Learn more about Governance, Risk and Compliance
+- 🥅 2022 Goals: Simplifying Cybersecurity Implementation for Organizations.
 - ⚡ Fun fact: 
 - 😻 
 
