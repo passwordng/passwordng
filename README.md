@@ -18,7 +18,7 @@
 - 🏫 Innopolis University -
 - 🌐 CyberPlural MSSP | Lead, Cybersecurity Engineering
 - 🏧 [REDACTED] Intel 💰 | 🅿 SME, Security Engineering & Threat Intelligence.
-- 🏧  cCHub |  Security Auditor 
+- 🏠  cCHub |  Security Auditor 
 - 🌐 CyberDome | Security Analyst & Lead, Security Engineer.
 - 🏫 Federal University of Technology Minna | B.Tech, Cybersecurity Science
 - 🎓 Federal Polytechnic Offa | ND, Computer Technology Engineering.
