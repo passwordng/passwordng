@@ -84,7 +84,7 @@ ISO 2700 LI | AVCSE | CSA | CEH | CND | AWS & AZURE | B.TECH & ND
 ---
 ### Talks 🎤
 - [CyberSecureNigeria Conference 2022 CSEAN -  Virtual Societal Warfare (VSW) – Mitigating Election Hacking ]()
-- [Cybersecurity Forum and Workshop 2.0 NCS - Cyber Threat Intelligence (CTI): Tools and Applications ]()
+- [Cybersecurity Forum and Workshop 2.0 NCS - Cyber Threat Intelligence (CTI): Tools and Applications ](https://www.ncs.org.ng/wp-content/uploads/2022/06/Cyber-Threats-Intelligence-Tools-and-Applications.pdf)
 
 ### 📕 Latest Blog Posts
 
