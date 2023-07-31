@@ -86,6 +86,7 @@ CISM | ISO 2700 LI | AVCSE | CSA | CEH | CND | AWS & AZURE | B.TECH & ND
 - [Cybersecurity Forum and Workshop 2023 NCS - e-Platforms Security]()
 - [CyberSecureNigeria Conference 2022 CSEAN -  Virtual Societal Warfare (VSW) – Mitigating Election Hacking ]()
 - [Cybersecurity Forum and Workshop 2022 NCS - Cyber Threat Intelligence (CTI): Tools and Applications ](https://www.ncs.org.ng/wp-content/uploads/2022/06/Cyber-Threats-Intelligence-Tools-and-Applications.pdf)
+- [Diary of Hacker (DoH) Cyber Career Fair 2.0 - Sabificate or Certificate]
 
 ### 📕 Latest Blog Posts
 
