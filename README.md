@@ -96,6 +96,7 @@ CISM | ISO 2700 LI | AVCSE | CSA | CEH | CND | AWS & AZURE | B.TECH & ND
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Market Trends and Earning Potential for Cybersecurity Professionals in Nigeria](https://www.cybersecfill.com/cybersecurity-salary-in-nigeria/)
 - [COVID-19: Security in the Wake of a New Work Order](https://cybersecfill.com/covid-19-security-in-the-wake-working-from-home)
 - [Darknet: Source of Actionable Intelligence](https://cybersecfill.com/darknet-for-actionable-intelligence/)
 - [A Decade of Cybersecurity In Nigeria](https://cybersecfill.com/a-decade-of-cybersecurity-in-nigeria/)
