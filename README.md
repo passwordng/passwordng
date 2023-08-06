@@ -87,7 +87,7 @@ CISM | ISO 2700 LI | AVCSE | CSA | CEH | CND | AWS & AZURE | B.TECH & ND
 - [Cybersecurity Capacity Building Workshop for Nigeria by FMCDE and The World Bank Group - Panelist]()
 - [CONIMS, UNILAG 5th International Conference & Workshop - Defend Forward: A Proactive Approach to Cybersecurity for Enterprises]()
 - [Devfest Minna 2022 - Google and Its World of Cybersecurity -Empowering Developers to Build a More Secure Future](https://gdg.community.dev/events/details/google-gdg-minna-presents-devfest-minna-2022/)
-- [CyberSecureNigeria Conference 2022 CSEAN -  Virtual Societal Warfare (VSW) – Mitigating Election Hacking ]()
+- [CyberSecure Nigeria Conference 2022 CSEAN -  Virtual Societal Warfare (VSW) – Mitigating Election Hacking ]()
 - [Cybersecurity Forum and Workshop 2022 NCS - Cyber Threat Intelligence (CTI): Tools and Applications ](https://www.ncs.org.ng/wp-content/uploads/2022/06/Cyber-Threats-Intelligence-Tools-and-Applications.pdf)
 - [Diary of Hacker (DoH) Cyber Career Fair 2.0 - Sabificate or Certificate]()
 - [Cyber In Africa 2nd SME Cybersecurity Summit 2021 - Managing Cyber Risks Simply and Cost Effectively for SMEs]()
