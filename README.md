@@ -15,7 +15,7 @@
 - 😻 
 
 ### Where I've Been
-- 🏫 Innopolis University -
+- 🏫 Innopolis University - D
 - 🌐 CyberPlural MSSP | Lead, Cybersecurity Engineering
 - 🌐 vCISO for X, Y and Z.
 - 🏧 [REDACTED] Intel 💰 | 🅿 SME, Security Engineering & Threat Intelligence.
