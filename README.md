@@ -73,7 +73,7 @@ CISM | ISO 2700 LI | AVCSE | CSA | CEH | CND | GCP, AWS & AZURE | B.TECH & ND
 ### 📺 Projects
 
 <!-- PROJECTS:START -->
-- [Whitehat.NG -Pushing for Responsible Disclosure in Nigeria](https://github.com/ngwhitehat)
+- [Whitehat.NG - Nigeria Cyberspace ISAC + peopleCERT](https://github.com/ngwhitehat)
 - [CyberTalkNaija - Tracking the Nigeria Cybersecurity Ecosystem](https://www.cybertalknaija.com/)
 - [CybersecFill - Cybersecurity Blog](https://cybersecfill.com/)
 - [Cybersecurity Virtual Lab - Virtual SOC]()
