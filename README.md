@@ -88,6 +88,7 @@ CISM | ISO 2700 LI | AVCSE | CSA | CEH | CND | GCP, AWS & AZURE | B.TECH & ND
 - [Threat Intelligence and Collaboration for a Resilient Digital Nigeria - CYSED Organized Technical Workshop 2023]()
 - [Building Trust for a Cyber-Resilient Nigeria - ISACA Abuja Annual Conference 2023]()
 - [Cybersecurity Forum and Workshop 2023 NCS - e-Platforms Security]()
+- [ Consultation on the National Legal Framework on Cybercrime by Federal Ministry of Justice W / GLACY+ and OCWAR-C projects CoE]()
 - [Cybersecurity Capacity Building Workshop for Nigeria by FMCDE and The World Bank Group - Panelist]()
 - [CONIMS, UNILAG 5th International Conference & Workshop - Defend Forward: A Proactive Approach to Cybersecurity for Enterprises]()
 - [Devfest Minna 2022 - Google and Its World of Cybersecurity -Empowering Developers to Build a More Secure Future](https://gdg.community.dev/events/details/google-gdg-minna-presents-devfest-minna-2022/)
