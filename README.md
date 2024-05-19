@@ -83,7 +83,7 @@ CISM | ISO 2700 LI | AVCSE | CSA | CEH | CND | GCP, AWS & AZURE | B.TECH & ND
 
 ---
 ### Talks 🎤
-- [The Evolving Threat Landscape of Cybercrime in Africa - Africa CyberFest](https://africacyberfest.com/)
+- [The Evolving Threat Landscape of Cybercrime in Africa - Africa CyberFest](https://github.com/passwordng/passwordng/blob/main/slides/The%20Evolving%20Threat%20Landscape%20of%20Cybercrime%20in%20Africa.pdf)
 - [Cybersecurity Forum and Workshop 2023 NCS - e-Platforms Security]()
 - [Cybersecurity Capacity Building Workshop for Nigeria by FMCDE and The World Bank Group - Panelist]()
 - [CONIMS, UNILAG 5th International Conference & Workshop - Defend Forward: A Proactive Approach to Cybersecurity for Enterprises]()
