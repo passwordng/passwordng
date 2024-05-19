@@ -10,7 +10,7 @@
 - 🔭 Interested in Cybersecurity - Security Operations & Engineering
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others in the Tech and Cybersecurity space
-- 🥅 2023 Goals: Simplifying Cybersecurity Implementation for Organizations.
+- 🥅 2024 Goals: Simplifying Cybersecurity Implementation for Organizations.
 - ⚡ Fun fact: I love Playing Scrabble, Speaking is Fun, a purveyor of Personal Development.
 - 😻 
 
