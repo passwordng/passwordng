@@ -85,7 +85,8 @@ CISM | ISO 2700 LI | AVCSE | CSA | CEH | CND | GCP, AWS & AZURE | B.TECH & ND
 ### Talks 🎤
 - [The Evolving Threat Landscape of Cybercrime in Africa - Africa CyberFest](https://github.com/passwordng/passwordng/blob/main/slides/The%20Evolving%20Threat%20Landscape%20of%20Cybercrime%20in%20Africa.pdf)
 - [Cybersecurity and Government: Safeguarding Public Services in the Digital Era - Digital Nigeria Conference 2023](https://www.linkedin.com/posts/password-ng_nigeria-challenges-opportunities-activity-7123564020762107904-Udkd?utm_source=share&utm_medium=member_desktop)
-- [Threat Intelligence and Collaboration for a Resilient Digital Nigeria - CYSED Organized Technical Workshop]()
+- [Threat Intelligence and Collaboration for a Resilient Digital Nigeria - CYSED Organized Technical Workshop 2023]()
+- [Building Trust for a Cyber-Resilient Nigeria - ISACA Abuja Annual Conference 2023]()
 - [Cybersecurity Forum and Workshop 2023 NCS - e-Platforms Security]()
 - [Cybersecurity Capacity Building Workshop for Nigeria by FMCDE and The World Bank Group - Panelist]()
 - [CONIMS, UNILAG 5th International Conference & Workshop - Defend Forward: A Proactive Approach to Cybersecurity for Enterprises]()
